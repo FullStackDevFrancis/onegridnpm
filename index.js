@@ -1,1 +1,1 @@
-print('cool')
+console.log('aaa')
